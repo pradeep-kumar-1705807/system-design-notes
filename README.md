@@ -1,4 +1,4 @@
-# SDE-3 System Design Interview Framework
+# System Design Interview Framework
 
 ## Core Framework
 
